@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">shoppingAssistant</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="log_in">Log in</string>
+    <string name="register">Register</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="back_to_log_in">Back to log in</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="menu_shoplists">ShopLists</string>
+    <string name="menu_shops">Shops</string>
+    <string name="your_shop_lists">Your shop lists</string>
+    <string name="add_shop_list">Add shop list</string>
+    <string name="list_title">List Title</string>
+    <string name="item_name">Item Name</string>
+    <string name="add_item">Add Item</string>
+    <string name="categories">Categories</string>
+    <string name="add_new_item">Add New Item</string>
+    <string name="save_your_shopping_list">Save your shopping list</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="shop_name">Shop name</string>
+    <string name="add_shop">Add Shop</string>
+    <string name="add_new_shop">Add new shop</string>
+</resources>
